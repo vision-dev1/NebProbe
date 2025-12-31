@@ -28,7 +28,7 @@ NetProbe requires **Python 3.8+**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Visionnn/netprobe.git
+   git clone https://github.com/vision-dev1/NetProbe.git
    cd netprobe
    ```
 
