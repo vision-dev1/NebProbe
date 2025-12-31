@@ -1,0 +1,7 @@
+colorama
+requests
+dnspython
+paramiko
+pymongo
+mysql-connector-python
+redis
