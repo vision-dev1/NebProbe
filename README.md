@@ -10,10 +10,6 @@ NetProbe is a professional-grade network scanner designed for defensive security
 
 > **Disclaimer**: This tool is for **educational and defensive purposes only**. Do not use against targets you do not have permission to audit. The author is not responsible for any misuse.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Features
 
 - **Fast & Modular**: Threaded TCP scanning for speed.
@@ -94,3 +90,8 @@ python3 main.py 127.0.0.1 --ports 1-1000
 ---
 **Made by Vision**
 [GitHub](https://github.com/vision-dev1)
+[Portfolio](https://visionkc.com.np)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
