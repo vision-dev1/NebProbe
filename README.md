@@ -88,10 +88,12 @@ python3 main.py 127.0.0.1 --ports 1-1000
 - `reports/`: JSON output of scan results.
 
 ---
-**Made by Vision**
-[GitHub](https://github.com/vision-dev1)
-[Portfolio](https://visionkc.com.np)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+**Made by Vision**
+[GitHub](https://github.com/vision-dev1)
+[Portfolio](https://visionkc.com.np)
